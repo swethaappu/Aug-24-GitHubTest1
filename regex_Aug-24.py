@@ -17,6 +17,8 @@ import re
 
 !gdown 1sSDV5UspYZL3UUOGuiuxppSGcv1wS9ex
 
+# making changes to the internet version of github
+
 data = open("data.txt", "r").read()
 print(data[:500]) # display some data
 
